@@ -1,7 +1,7 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Technoblade",
+    "username": "Notch",
     "password": "",
     "type": "offline"
   },
@@ -30,9 +30,8 @@
       "repeat": true,
       "repeat-delay": 500,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "Join our SMPs discord https://discord.gg/hRGxrGceRT",
+        "vulmax.aternos.me"
       ]
     },
     "chat-log": true,
